@@ -19,7 +19,8 @@
     "cstopleft": "<p>Logo</p>",
     "csbottomleft": "<p>Some text</p>",
     "csmiddle": "<h1>Coming Soon</h1>",
-    "cstimerdatetime": "Jan 5, 2018 15:37:25"
+    "cstimerdatetime": "Jan 5, 2018 15:37:25",
+    "csbackgroundurl": "/static/coming-soon/background.jpg"
   },
   "assets": {
     "static": "coming-soon"
