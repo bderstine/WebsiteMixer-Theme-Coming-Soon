@@ -16,6 +16,6 @@
     }]
   },
   "assets": {
-    "templates": "coming-soon"
+    "static": "coming-soon"
   }
 }
