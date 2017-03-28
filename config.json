@@ -16,10 +16,10 @@
     }]
   },
   "settings": {
-    "topleft": "<p>Logo</p>",
-    "bottomleft": "<p>Some text</p>",
-    "middle": "<h1>Coming Soon</h1>",
-    "timerdatetime": "Jan 5, 2018 15:37:25"
+    "cstopleft": "<p>Logo</p>",
+    "csbottomleft": "<p>Some text</p>",
+    "csmiddle": "<h1>Coming Soon</h1>",
+    "cstimerdatetime": "Jan 5, 2018 15:37:25"
   },
   "assets": {
     "static": "coming-soon"
