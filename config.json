@@ -15,13 +15,27 @@
       "url": "https://facebook.com/bizzartech"
     }]
   },
-  "settings": {
-    "cstopleft": "<p>Logo</p>",
-    "csbottomleft": "<p>Some text</p>",
-    "csmiddle": "<h1>Coming Soon</h1>",
-    "cstimerdatetime": "Jan 5, 2018 15:37:25",
-    "csbackgroundurl": "/static/coming-soon/background.jpg"
-  },
+  "settings": [{
+      "name": "cstopleft",
+      "default": "<p>Logo</p>",
+      "type": "string"
+    },{
+      "name": "csbottomleft",
+      "default": "<p>Some text</p>",
+      "type": "string"
+    },{
+      "name": "csmiddle",
+      "default": "<h1>Coming Soon</h1>",
+      "type": "string"
+    },{
+      "name": "cstimerdatetime",
+      "default": "Jan 5, 2018 15:37:25",
+      "type": "string"
+    },{
+      "name": "csbackgroundurl",
+      "default": "/static/coming-soon/background.jpg",
+      "type": "string"
+  }],
   "assets": {
     "static": "coming-soon"
   }
